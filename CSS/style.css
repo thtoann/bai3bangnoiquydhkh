@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h3{
+    font-size:25px;
+    color: blue;
+}
+
+h1{
+    color: red;
+   text-align: center;
+   font-size: 40px;
+}
+
+#bangnoiquy{
+    border-style:solid;
+    border-width: 15px;
+    border-color: blue;
+    margin: 50px;
+    padding: 5px;
+}
+
+#bangnoiquy1{
+    border : 5px solid aqua;
+    padding: 1px 50px 20px;
+    
+}
+
+p{
+    font-size: 18px;
+    color :blue;
+}
+
